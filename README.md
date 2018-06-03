@@ -1,11 +1,4 @@
-# Textmate grammar in Visual Studio
-
-[![Build status](https://ci.appveyor.com/api/projects/status/x5v4qf0i0es5750h?svg=true)](https://ci.appveyor.com/project/madskristensen/textmatesample)
-
-This is a sample project that demonstrates how to ship Textmate grammars inside Visual Studio extensions.
-
-## Ship your own Textmate bundle
-Here is how to ship any existing Textmate bundle as a Visual Studio extension.
+# Visual Studio extension for RTF (Rich Text Format) syntax highlighting using a Textmate grammar Textmate grammar in Visual Studio
 
 ### Step 1 - Clone this project
 Clone or download this project. Find it [on GitHub](https://github.com/madskristensen/TextmateSample).
